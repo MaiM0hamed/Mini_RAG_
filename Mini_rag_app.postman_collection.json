@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "dfb57fb2-b107-4644-b5ca-23d70bbc46d8",
+		"name": "Mini_rag_app",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47789842",
+		"_collection_link": "https://maimohamed999999-5061400.postman.co/workspace/Mai-Mohamed's-Workspace~a507116f-e5d7-4990-8027-44ec8bd98277/collection/47789842-dfb57fb2-b107-4644-b5ca-23d70bbc46d8?action=share&source=collection_link&creator=47789842"
+	},
+	"item": [
+		{
+			"name": "welcome_Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
